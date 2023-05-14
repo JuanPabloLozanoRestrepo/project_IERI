@@ -1,0 +1,60 @@
+Documento de registro del proyecto
+
+Participantes del proyecto:
+-Jhoana Cordoba           10-3
+-Juan Manuel Gomez        10-1
+-Juan Pablo Lozano        10-3
+-Juan Andres Hidalgo      10-3
+-Juan Esteban Valencia    10-1
+
+Idea Principal:
+La idea principal del proyecto es beneficiar con los conocimientos de software a la empresa del participante Juan Andres Hidalgo.
+Dicha empresa se titula como: 'Juankart', esta enpresa se dedica a enseñar a conducir, es decir, es una academia de condunccion automovilistico.
+
+En vista de que no se pudo llegar a un proyecto debido a que se planeo desde un principio crear una pagina web para dicha empresa, pero esta ya contaba con una,
+entonces se tomo la decision de abandonar esta idea por otra.
+
+*-Cambios a la fecha-*
+
+- Jhoana Cordoba decidio abandonar el grupo, quedando conformado por:
+  - Juan Andres Hidalgo
+  - Juan Pablo Lozano
+  - Juan Esteban Valencia
+  - Juan Manuel Gomez.
+
+- Jhoana David Muñoz entra al equipo, volviendo a ser conformado por 5 personas.
+
+- Juan Esteban Valencia pasa de ser de 10-1 a 10-3
+
+# INCOMPLETO
+- A continuacion se presentara el rol que desempeñara cada miembro del equipo:
+  - Juan Andres Hidalgo, sera el Comunicador junto con el lider cuando se necesite exponer.
+  - Juan Pablo Lozano, sera el Lider y Especialista, encargado de aportar conocimientos tecnicos referente al tema y guiar al resto del equipo
+  - Juan Estabn Valencia
+  - Jhonatan David Muñoz
+  - Juan Manuel Gomez, sera el Co-lider
+  
+
+La idea principal que se desecho, se cambio por el marketing de afiliados.
+explicacion rapida de que es el marketing de afiliados y cual sera nuestro objetivo con este proyecto.
+
+"El marketing de afiliados es un modelo de marketing en el cual una persona o empresa (llamada afiliado)
+promociona los productos o servicios de otra empresa (llamada anunciante) a cambio de una comisión por
+cada venta o acción generada a través de sus esfuerzos de promoción."
+
+A modo de que nuestra organizacion sera el Afiliado a empresas pequeñas (Anunciantes), entonces nosotros
+nos encargaremos de promocionar sus productos o servicios ya sea por medio de influencia social (influencers) o 
+por medio de creacion de software como seria una pagina web, dicho esto se podria resumir en que nosotros promocionamos
+a un cliente o empresa por medio de influencia digital o por un servicio proveido por nosotros, evidentemente necesitamos
+una posicion en las redes digitales para poder ejercer nuestro primer servicio, este actualmente no esta completamente desarrollado
+es decir que nuestra influencia digital no es tan fuerte, pero como cualquier organizacion con el tiempo y esfuerzo eventualmente
+llegaremos a posicionarnos bien, dicho esto en los inicios nuestro enfoque sera primero capacitar a nuestro equipo social, mental y 
+tecnicamente para poder ejercer nuestro segundo servicio: creacion de sitios web, garantizando que sea responsive y amigable con el
+usuario final.
+
+Para concluir nuestro proyecto tomara de tiempo y los resultados no seran inmediatos, sin embargo es algo que cuando este en todo su
+apogeo se sustentara y valdra el esfuerzo.
+
+Nuestro objetivo es apoyar y potenciar a escala social a la clientela, ganando reconocimiento para su servicio o producto a fin de que 
+ambos podmaos cumplir nuestros objetivos.
+   
