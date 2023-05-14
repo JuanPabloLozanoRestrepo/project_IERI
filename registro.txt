@@ -30,9 +30,10 @@ entonces se tomo la decision de abandonar esta idea por otra.
 - A continuacion se presentara el rol que desempeñara cada miembro del equipo:
   - Juan Andres Hidalgo, sera el Comunicador junto con el lider cuando se necesite exponer.
   - Juan Pablo Lozano, sera el Lider y Especialista, encargado de aportar conocimientos tecnicos referente al tema y guiar al resto del equipo
-  - Juan Estabn Valencia
-  - Jhonatan David Muñoz
-  - Juan Manuel Gomez, sera el Co-lider
+  - Juan Estabn Valencia, sera Especialista, aprendera a utilizar el software para ayudar con el diseño estructural de software a fines
+  - Jhonatan David Muñoz, sera el Analista, encargado de comunicar sus observaciones con el lider, encaminado a ayudar a guiar al equipo y al
+  analizis de resultados en cuanto a estadisticas y modelo de aplicacion.
+  - Juan Manuel Gomez, sera el Co-lider ayudara al Lider a dirigir al equipo y se encargara de ayudar a diseñar el modelo de practica
   
 
 La idea principal que se desecho, se cambio por el marketing de afiliados.
@@ -57,4 +58,7 @@ apogeo se sustentara y valdra el esfuerzo.
 
 Nuestro objetivo es apoyar y potenciar a escala social a la clientela, ganando reconocimiento para su servicio o producto a fin de que 
 ambos podmaos cumplir nuestros objetivos.
-   
+
+# INCOMPLETO
+Breve descipcion de nuestro equipo de trabajo:
+- Juan Andres Hidalgo
